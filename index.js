@@ -29,5 +29,5 @@ for(let alimento of cestaBasica){
     
 }
 
-console.log("O Valor da cesta basica é: R$"+ total)
+console.log("The price of this basic supply is: R$"+ total)
 
